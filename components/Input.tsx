@@ -126,6 +126,6 @@ const styles = StyleSheet.create({
   error: {
     ...Typography.caption,
     color: Colors.error,
-    marginTop: 3,
+    marginTop: 4,
   },
 });
